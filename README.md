@@ -133,7 +133,7 @@ August – December 2016 | *CUValles, University of Guadalajara* | Ameca, Jalisc
 
 <!-- For more, check out the [Projects Folder](link-to-projects-folder). -->
 ## 🎓 Academic Degrees:
-
+---
 ### Ph.D. in Science in Electrical Engineering — AI/Deep Learning
 September 2, 2019 – May 17, 2024 | Cinvestav, Guadalajara Campus | Zapopan, Jalisco, Mexico
    - **Thesis:** Deep learning for recognition and quantification of fundus pathologies using instance segmentation, and quaternion neural networks for low-light image enhancement.
