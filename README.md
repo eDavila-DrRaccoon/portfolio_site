@@ -1,7 +1,3 @@
-<!-- # Eduardo de Jesús Dávila Meza
-
-Ph.D. in Science in Electrical Engineering ܀ AI/ML · Computer Vision · Embedded Systems · ROS ܀ Engineer · Researcher · Educator -->
-
 ## 📬 Contact Me
 - **Email**: [eduardodavila94@hotmail.com](mailto:eduardodavila94@hotmail.com)
 - **LinkedIn**: [EduardoDavilaMeza](https://www.linkedin.com/in/eduardodavilameza/)
@@ -10,6 +6,28 @@ Ph.D. in Science in Electrical Engineering ܀ AI/ML · Computer Vision · Embedd
 
 ## 📄 Download My CV
 [Download CV (PDF)](./EduardoDavila_asCV_EN_2026.pdf)
+
+## 💼 Product Portfolio 
+
+🚧 Currently under active development  
+✅ Deployed
+
+### 💻 AI Engineering Portfolio 
+
+**Product A:** [🚧 AI Document Intelligence](https://edavila-drraccoon.github.io/ai_document_intelligence/)
+
+**Product B:** [🚧 Vision Pipeline](https://edavila-drraccoon.github.io/vision_pipeline/)
+
+**Product C:** [🚧 ROS2 Perception Stack](https://edavila-drraccoon.github.io/ros2_perception_stack/)
+
+**Product D:** [🚧 Edge AI Lab](https://edavila-drraccoon.github.io/edge_ai_lab/)
+
+### 🤖 ROS/ROS2 Portfolio
+
+**Product E:** [✅ ROS2 Course — 2026](https://edavila-drraccoon.github.io/repo_ros2_course/)
+
+**Product F:** [✅ ROS2 Course — 2025](https://edavila-drraccoon.github.io/repo_ros2_course_2025/)
+
 
 ## 👋🏽 About Me
 I am an Engineer with a Ph.D. in Electrical Engineering from **Cinvestav**, IPN, where I specialized in **deep learning** and **computer vision**. My work focuses on developing **AI/ML and computer vision solutions**, as well as **embedded/robotics systems using ROS/ROS2**, designed for real-world deployment.
