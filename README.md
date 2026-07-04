@@ -13,8 +13,8 @@ Ph.D. in Science in Electrical Engineering ܀ AI/ML · Computer Vision · Embedd
 
 ## 💼 Product Portfolio 
 
-🚧 Currently under active development  
-✅ Deployed
+    🚧 Currently under active development  
+    ✅ Deployed
 
 ### 💻 AI Engineering Portfolio 
 
