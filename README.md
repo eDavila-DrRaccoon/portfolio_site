@@ -50,6 +50,7 @@ In addition to my engineering work, I have designed and delivered hands-on cours
 I am particularly interested in roles such as AI/ML Engineer, Computer Vision Engineer, or Embedded/Robotics AI Engineer, where I can contribute to building impactful, production-ready AI systems.
 
 ## 🛠️ Skills and Tools
+---
 **Top skills:** Artificial intelligence / Machine Learning • Computer vision • Embedded systems • ROS/ROS2
 
 **Technical Skills:**
@@ -78,6 +79,7 @@ Self-taught • Goal-oriented • Proactive • Teamwork • Communication • P
 - **English:** Advanced B2 • fluent in reading, writing, and technical comprehension; intermediate spoken; proficient for research publications, documentation, and international collaboration. Certified by Cinvestav, Guadalajara Campus, and Desafío Latam. [See certificate](https://cursos.desafiolatam.com/certificates/hcmv4svhi8)
 
 ## 📖 Work Experience & 🚀 Projects
+---
 <!-- ### [Project Title 1](link-to-project1-folder-or-demo)
 - **Description**: [Brief description of the project].
 - **Key Features**: [Bullet points of achievements or technologies used].
@@ -151,6 +153,7 @@ August 1, 2012 – December 16, 2016 | CUValles, University of Guadalajara •| 
 
 
 ## 📚 Publications and Patents
+---
 <!-- - [Title of Paper 1](link-to-publication) -->
 <!-- - [Patent Title](link-to-patent) -->
 - Jun. 2024 • Meeting Abstract • Co-author on "Deep-learning based quantification of RPE65-mutation inherited retinal degeneration from wide-angle images – novel biomarkers for natural history and interventional studies" • presented in Investigative Ophthalmology & Visual Science • vol. 65(7) • p. 1392 • https://iovs.arvojournals.org/article.aspx?articleid=2794864 
@@ -164,6 +167,7 @@ August 1, 2012 – December 16, 2016 | CUValles, University of Guadalajara •| 
 
 
 ## 📜 Certifications
+---
 <!-- - [name](link_to_certification) -->
 - [**Data Cleaning**](https://www.kaggle.com/learn/certification/edudavilameza/data-cleaning) • Kaggle • Jan. 16, 2025
    - **Description:** Master efficient workflows to clean messy, real-world data. Learn key techniques such as handling missing values, scaling and normalizing data, parsing dates, managing character encodings, and fixing inconsistent data entries.
