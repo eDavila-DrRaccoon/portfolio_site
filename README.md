@@ -3,16 +3,18 @@
 Ph.D. in Science in Electrical Engineering ܀ AI/ML · Computer Vision · Embedded Systems · ROS ܀ Engineer · Researcher · Educator -->
 
 ## 📬 Contact Me
+---
 - **Email**: [eduardodavila94@hotmail.com](mailto:eduardodavila94@hotmail.com)
 - **LinkedIn**: [EduardoDavilaMeza](https://www.linkedin.com/in/eduardodavilameza/)
 - **GitHub**: [eDavila-DrRaccoon](https://github.com/eDavila-DrRaccoon)
 - **HackerRank**: [eduardodavila94](https://www.hackerrank.com/profile/eduardodavila94)
 
 ## 📄 Download My CV
+---
 [Download CV (PDF)](./EduardoDavila_asCV_EN_2026.pdf)
 
 ## 💼 Product Portfolio 
-
+---
     🚧 Currently under active development  
     ✅ Deployed
 
@@ -34,6 +36,7 @@ Ph.D. in Science in Electrical Engineering ܀ AI/ML · Computer Vision · Embedd
 
 
 ## 👋🏽 About Me
+---
 I am an Engineer with a Ph.D. in Electrical Engineering from **Cinvestav**, IPN, where I specialized in **deep learning** and **computer vision**. My work focuses on developing **AI/ML and computer vision solutions**, as well as **embedded/robotics systems using ROS/ROS2**, designed for real-world deployment.
 
 My experience includes developing machine learning models, designing FastAPI-based services to integrate statistical and predictive models into production systems, and building LLM-powered tools for automated reporting and analytics. I have also worked extensively in computer vision, including medical image segmentation using Mask R-CNN and real-time perception systems for robotics using ROS/ROS2.
