@@ -20,19 +20,19 @@ Ph.D. in Science in Electrical Engineering ܀ AI/ML · Computer Vision · Embedd
 
 ### 💻 AI Engineering Portfolio 
 
-**Product A:** [🚧 AI Document Intelligence](https://edavila-drraccoon.github.io/ai_document_intelligence/)
+[🚧 AI Document Intelligence](https://edavila-drraccoon.github.io/ai_document_intelligence/)
 
-**Product B:** [🚧 Vision Pipeline](https://edavila-drraccoon.github.io/vision_pipeline/)
+[🚧 Vision Pipeline](https://edavila-drraccoon.github.io/vision_pipeline/)
 
-**Product C:** [🚧 ROS2 Perception Stack](https://edavila-drraccoon.github.io/ros2_perception_stack/)
+[🚧 ROS2 Perception Stack](https://edavila-drraccoon.github.io/ros2_perception_stack/)
 
-**Product D:** [🚧 Edge AI Lab](https://edavila-drraccoon.github.io/edge_ai_lab/)
+[🚧 Edge AI Lab](https://edavila-drraccoon.github.io/edge_ai_lab/)
 
 ### 🤖 ROS/ROS2 Portfolio
 
-**Product E:** [✅ ROS2 Course — 2026](https://edavila-drraccoon.github.io/repo_ros2_course/)
+[✅ ROS2 Course — 2026](https://edavila-drraccoon.github.io/repo_ros2_course/)
 
-**Product F:** [✅ ROS2 Course — 2025](https://edavila-drraccoon.github.io/repo_ros2_course_2025/)
+[✅ ROS2 Course — 2025](https://edavila-drraccoon.github.io/repo_ros2_course_2025/)
 
 
 ## 👋🏽 About Me
@@ -147,7 +147,7 @@ September 4, 2017 – August 2, 2019 | Cinvestav, Guadalajara Campus | Zapopan, 
    - [Download thesis (PDF)](./EduardoDavila_MScThesis.pdf)
 
 ### B.Eng. in Mechatronics — Embedded Systems
-August 1, 2012 – December 16, 2016 | CUValles, University of Guadalajara •| Ameca, Jalisco, Mexico
+August 1, 2012 – December 16, 2016 | CUValles, University of Guadalajara | Ameca, Jalisco, Mexico
    - **Social service & Professional Internship:** Developed embedded and mechatronic projects in an electronics and telecommunications laboratory.
    - 🧩 **Skills:** Embedded systems · Linear algebra · Calculus · Control theory · Digital and power electronics · HMI · PICs & Arduino
 
