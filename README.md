@@ -90,7 +90,7 @@ April 2024 – Present | *Tecnológico de Monterrey, Guadalajara Campus* | Zapop
    - **Description:** **1)** Designing and delivering hands-on courses in ROS/ROS2 using C++ and Python, focused on differential drive robots. 
     **2)** Developing practical repositories and lecture notes covering the foundations of development, simulation, deployment, and monitoring of ROS/ROS2-based modular systems, including computer vision and autonomous navigation. 
     **3)** Recognized as a top-rated professor. [See recognition](https://www.linkedin.com/feed/update/urn:li:activity:7249158255002714113/)
-   - 🧩 **Skills:** C++ · Python · ROS/ROS2 · Bash · Computer Vision · Robotics · Technical instruction
+   - 🧩 **Skills:** C++ · Python · ROS/ROS2 · Bash · Computer Vision · Robotics · Embedded Linux · Technical instruction
    - [See repository 2026](https://edavila-drraccoon.github.io/repo_ros2_course/)
    - [See repository 2025](https://edavila-drraccoon.github.io/repo_ros2_course_2025/)
 
@@ -114,7 +114,7 @@ May 2021 – July 2024 | *Cinvestav, Guadalajara: Recognition of Fundus Patholog
 December 2019 – October 2023 | *Cinvestav, Guadalajara: Intelligent Visual Guide System (OJO SMART) – Modular Assistive Navigation Device* | Zapopan, Jalisco, Mexico
   - **Description:** **1)** Developed ROS-based modules for real-time recognition of colors, objects, signs, banknotes, and text using computer vision techniques. 
    **2)** Contributed to the integration of multiple perception systems into an assistive navigation device for visually impaired users.
-  - 🧩 **Skills:** Computer Vision · C++ · Python · ROS · Tesseract OCR · OpenCV · TensorFlow
+  - 🧩 **Skills:** Computer Vision · C++ · Python · ROS · Tesseract OCR · OpenCV · TensorFlow · Embedded Linux
 
 ### Graduate Teaching Assistant – Computer Vision and AI/ML
 September – December 2022 | *Cinvestav, Guadalajara Campus* | | Zapopan, Jalisco, Mexico
@@ -137,18 +137,21 @@ August – December 2016 | *CUValles, University of Guadalajara* | Ameca, Jalisc
 ### Ph.D. in Science in Electrical Engineering — AI/Deep Learning
 September 2, 2019 – May 17, 2024 | Cinvestav, Guadalajara Campus | Zapopan, Jalisco, Mexico
    - **Thesis:** Deep learning for recognition and quantification of fundus pathologies using instance segmentation, and quaternion neural networks for low-light image enhancement.
+   - **Overall Result:** 100/100
    - 🧩 **Skills:** AI/ML lifecycle · Computer vision / Image analysis · Deep Learnin · CNN/NN · Robotics · Research · Science Communication
    - [Download thesis (PDF)](./EduardoDavila_PhDThesis_comp.pdf)
 
 ### M.Sc. in Electrical Engineering — AI/Machine Learning
 September 4, 2017 – August 2, 2019 | Cinvestav, Guadalajara Campus | Zapopan, Jalisco, Mexico
    - **Thesis:** Quaternion neural networks for low-light image enhancement, and identification of an electromechanical system.
+   - **Overall Result:** 91/100
    - 🧩 **Skills:** AI/ANNs · Computer vision · Linear algebra · Control theory · Robotics · Probability & statistics · Research · Science Communication
    - [Download thesis (PDF)](./EduardoDavila_MScThesis.pdf)
 
 ### B.Eng. in Mechatronics — Embedded Systems
 August 1, 2012 – December 16, 2016 | CUValles, University of Guadalajara | Ameca, Jalisco, Mexico
    - **Social service & Professional Internship:** Developed embedded and mechatronic projects in an electronics and telecommunications laboratory.
+   - **Overall Result:** 98.02/100
    - 🧩 **Skills:** Embedded systems · Linear algebra · Calculus · Control theory · Digital and power electronics · HMI · PICs & Arduino
 
 
