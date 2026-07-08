@@ -2,23 +2,23 @@
 
 Ph.D. in Science in Electrical Engineering ܀ AI/ML · Computer Vision · Embedded Systems · ROS ܀ Engineer · Researcher · Educator -->
 
-## 📬 Contact Me
+## Contact Me
 ---
 - **Email**: [eduardodavila94@hotmail.com](mailto:eduardodavila94@hotmail.com)
 - **LinkedIn**: [EduardoDavilaMeza](https://www.linkedin.com/in/eduardodavilameza/)
 - **GitHub**: [eDavila-DrRaccoon](https://github.com/eDavila-DrRaccoon)
 - **HackerRank**: [eduardodavila94](https://www.hackerrank.com/profile/eduardodavila94)
 
-## 📄 Download My CV
+## Download My CV
 ---
 [Download CV (PDF)](./EduardoDavila_asCV_EN_2026.pdf)
 
-## 💼 Product Portfolio 
+## Product Portfolio 
 ---
     🚧 Currently under active development  
     ✅ Deployed
 
-### 💻 AI Engineering Portfolio 
+### AI Engineering Portfolio 
 
 [🚧 AI Document Intelligence](https://edavila-drraccoon.github.io/ai_document_intelligence/)
 
@@ -28,14 +28,14 @@ Ph.D. in Science in Electrical Engineering ܀ AI/ML · Computer Vision · Embedd
 
 [🚧 Edge AI Lab](https://edavila-drraccoon.github.io/edge_ai_lab/)
 
-### 🤖 ROS/ROS2 Portfolio
+### ROS/ROS2 Portfolio
 
 [✅ ROS2 Course — 2026](https://edavila-drraccoon.github.io/repo_ros2_course/)
 
 [✅ ROS2 Course — 2025](https://edavila-drraccoon.github.io/repo_ros2_course_2025/)
 
 
-## 👋🏽 About Me
+## About Me
 ---
 I am an Engineer with a Ph.D. in Electrical Engineering from **Cinvestav**, IPN, where I specialized in **deep learning** and **computer vision**. My work focuses on developing **AI/ML and computer vision solutions**, as well as **embedded/robotics systems using ROS/ROS2**, designed for real-world deployment.
 
@@ -49,7 +49,7 @@ In addition to my engineering work, I have designed and delivered hands-on cours
 
 I am particularly interested in roles such as AI/ML Engineer, Computer Vision Engineer, or Embedded/Robotics AI Engineer, where I can contribute to building impactful, production-ready AI systems.
 
-## 🛠️ Skills and Tools
+## Skills and Tools
 ---
 **Top skills:** Artificial intelligence / Machine Learning • Computer vision • Embedded systems • ROS/ROS2
 
@@ -78,7 +78,7 @@ Self-taught • Goal-oriented • Proactive • Teamwork • Communication • P
 - **Spanish:** Native • full professional proficiency.
 - **English:** Advanced B2 • fluent in reading, writing, and technical comprehension; intermediate spoken; proficient for research publications, documentation, and international collaboration. Certified by Cinvestav, Guadalajara Campus, and Desafío Latam. [See certificate](https://cursos.desafiolatam.com/certificates/hcmv4svhi8)
 
-## 📖 Work Experience & 🚀 Projects
+## Work Experience & Projects
 ---
 <!-- ### [Project Title 1](link-to-project1-folder-or-demo)
 - **Description**: [Brief description of the project].
@@ -132,7 +132,7 @@ August – December 2016 | *CUValles, University of Guadalajara* | Ameca, Jalisc
    - 🧩 **Skills:** MPLAB · I2C & SPI · Technical instruction · Code debugging · PROTEUS
 
 <!-- For more, check out the [Projects Folder](link-to-projects-folder). -->
-## 🎓 Academic Degrees:
+## Academic Degrees:
 ---
 ### Ph.D. in Science in Electrical Engineering — AI/Deep Learning
 September 2, 2019 – May 17, 2024 | Cinvestav, Guadalajara Campus | Zapopan, Jalisco, Mexico
@@ -152,7 +152,7 @@ August 1, 2012 – December 16, 2016 | CUValles, University of Guadalajara | Ame
    - 🧩 **Skills:** Embedded systems · Linear algebra · Calculus · Control theory · Digital and power electronics · HMI · PICs & Arduino
 
 
-## 📚 Publications and Patents
+## Publications and Patents
 ---
 <!-- - [Title of Paper 1](link-to-publication) -->
 <!-- - [Patent Title](link-to-patent) -->
@@ -166,7 +166,7 @@ August 1, 2012 – December 16, 2016 | CUValles, University of Guadalajara | Ame
     - 🧩 **Skills:** Embedded systems · Control theory · Digital and power electronics · PICs · SPI & I2C communication protocols
 
 
-## 📜 Certifications
+## Certifications
 ---
 <!-- - [name](link_to_certification) -->
 - [**Data Cleaning**](https://www.kaggle.com/learn/certification/edudavilameza/data-cleaning) • Kaggle • Jan. 16, 2025
