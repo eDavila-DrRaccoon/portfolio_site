@@ -13,7 +13,7 @@ remote_theme:  pages-themes/cayman@v0.2.0
 
 # Display/hide the download buttons (Download .zip, .tar.gz)
 show_downloads: false
-google_analytics: GTM-PXXFH5DS
+google_analytics:
 
 # Other options
 baseurl: "/"  # use "/" if it is in root
