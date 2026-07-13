@@ -20,13 +20,13 @@ Ph.D. in Science in Electrical Engineering ܀ AI/ML · Computer Vision · Embedd
 
 ### AI Engineering Portfolio 
 
-[🚧 AI Document Intelligence](https://edavila-drraccoon.github.io/ai_document_intelligence/)
+<!-- [🚧 AI Document Intelligence](https://edavila-drraccoon.github.io/ai_document_intelligence/) -->
 
 [🚧 Vision Pipeline](https://edavila-drraccoon.github.io/vision_pipeline/)
 
-[🚧 ROS2 Perception Stack](https://edavila-drraccoon.github.io/ros2_perception_stack/)
+<!-- [🚧 ROS2 Perception Stack](https://edavila-drraccoon.github.io/ros2_perception_stack/)
 
-[🚧 Edge AI Lab](https://edavila-drraccoon.github.io/edge_ai_lab/)
+[🚧 Edge AI Lab](https://edavila-drraccoon.github.io/edge_ai_lab/) -->
 
 ### ROS/ROS2 Portfolio
 
