@@ -1,6 +1,9 @@
-<!-- # Eduardo de Jesús Dávila Meza
+<!-- 
+Title and description included in `_config.yml`
 
-Ph.D. in Science in Electrical Engineering ܀ AI/ML · Computer Vision · Embedded Systems · ROS ܀ Engineer · Researcher · Educator -->
+# Eduardo de Jesús Dávila Meza — Professional Portfolio
+
+AI/ML & DL · Computer Vision · Embedded/Robotics Systems (ROS/ROS2) | Ph.D. in Science — AI/DL & ML | Engineer · Researcher · Educator --> 
 
 ## Contact Me
 ---
@@ -13,16 +16,18 @@ Ph.D. in Science in Electrical Engineering ܀ AI/ML · Computer Vision · Embedd
 ---
 [Download CV (PDF)](./EduardoDavila_asCV_EN_2026.pdf)
 
-## Product Portfolio 
+## Engineering Products 
 ---
-    🚧 Currently under active development  
+   <!-- 🚧 Currently under active development   -->
+    🧰 Maintenance / Future Roadmap  
     ✅ Deployed
 
 ### AI Engineering Portfolio 
 
 <!-- [🚧 AI Document Intelligence](https://edavila-drraccoon.github.io/ai_document_intelligence/) -->
 
-[🚧 Vision Pipeline](https://edavila-drraccoon.github.io/vision_pipeline/)
+[🧰 Vision Pipeline](https://edavila-drraccoon.github.io/vision_pipeline/)  
+[![Vision Pipeline CI](https://github.com/eDavila-DrRaccoon/vision_pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/eDavila-DrRaccoon/vision_pipeline/actions/workflows/ci.yml) [![Python](https://img.shields.io/badge/Python-3.13%2B-blue)](https://www.python.org/downloads/) [![Docker](https://img.shields.io/badge/Docker-28%2B-blue)](https://docs.docker.com/get-docker/) [![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT) [![Release](https://img.shields.io/badge/Release-v1.0.0-blue)](https://github.com/eDavila-DrRaccoon/vision_pipeline/releases/tag/v1.0.0)
 
 <!-- [🚧 ROS2 Perception Stack](https://edavila-drraccoon.github.io/ros2_perception_stack/)
 
@@ -30,10 +35,13 @@ Ph.D. in Science in Electrical Engineering ܀ AI/ML · Computer Vision · Embedd
 
 ### ROS/ROS2 Portfolio
 
-[✅ ROS2 Course — 2026](https://edavila-drraccoon.github.io/repo_ros2_course/)
+[✅ ROS2 Course — 2026](https://edavila-drraccoon.github.io/repo_ros2_course/)  
+[![C++](https://img.shields.io/badge/C%2B%2B-17%2B-blue)](https://isocpp.org/) [![Python](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/downloads/) [![License](https://img.shields.io/badge/License-Apache-green)](https://opensource.org/licenses/Apache-2.0) [![ROS 2 Humble Hawksbill](https://img.shields.io/badge/ROS%202-Humble%20Hawksbill-blue)](https://docs.ros.org/en/humble/) [![Ubuntu 22.04 LTS (Jammy Jellyfish)](https://img.shields.io/badge/Ubuntu-22.04%20LTS-green)](https://releases.ubuntu.com/22.04/)
 
-[✅ ROS2 Course — 2025](https://edavila-drraccoon.github.io/repo_ros2_course_2025/)
 
+
+[✅ ROS2 Course — 2025](https://edavila-drraccoon.github.io/repo_ros2_course_2025/)  
+[![C++](https://img.shields.io/badge/C%2B%2B-14%2B-blue)](https://isocpp.org/) [![Python](https://img.shields.io/badge/Python-3.8-blue)](https://www.python.org/downloads/) [![License](https://img.shields.io/badge/License-Apache-green)](https://opensource.org/licenses/Apache-2.0) [![ROS 2 Foxy Fitzroy](https://img.shields.io/badge/ROS%202-Foxy%20Fitzroy-blue)](https://docs.ros.org/en/foxy/) [![Ubuntu 20.04 LTS (Focal Fossa)](https://img.shields.io/badge/Ubuntu-20.04%20LTS-green)](https://releases.ubuntu.com/20.04/)
 
 ## About Me
 ---
