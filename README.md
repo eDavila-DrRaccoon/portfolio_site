@@ -18,9 +18,11 @@ AI/ML & DL · Computer Vision · Embedded/Robotics Systems (ROS/ROS2) | Ph.D. in
 
 ## Engineering Products 
 ---
-   <!-- 🚧 Currently under active development   -->
-    🧰 Maintenance / Future Roadmap  
-    ✅ Deployed
+<!-- 🚧 Currently under active development   -->
+```text
+🧰 Maintenance / Future Roadmap  
+✅ Deployed
+```
 
 ### AI Engineering Portfolio 
 
