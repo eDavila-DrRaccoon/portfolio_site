@@ -14,7 +14,7 @@ AI/ML & DL · Computer Vision · Embedded/Robotics Systems (ROS/ROS2) | Ph.D. in
 
 ## Download My CV
 ---
-[Download CV (PDF)](./EduardoDavila_asCV_EN_2026.pdf)
+[Download CV (PDF)](./EduardoDavila_CV_EN_2026.pdf)
 
 ## Engineering Products 
 ---
