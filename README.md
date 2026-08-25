@@ -59,9 +59,10 @@ I am particularly interested in roles such as AI/ML Engineer, Computer Vision En
 
 ## Skills and Tools
 ---
-**Top skills:** Artificial intelligence / Machine Learning • Computer vision • Embedded systems • ROS/ROS2
+### Top skills
+Artificial intelligence / Machine Learning • Computer vision • Embedded systems • ROS/ROS2
 
-**Technical Skills:**
+### Technical Skills
 - **AI/Computer Vision:** Computer Vision, Deep Learning (Mask R-CNN), Object Detection, Image Segmentation, Model Optimization, PyTorch, TensorFlow/Keras, OpenCV
 - **Software Engineering:** Python, C++, SQL, Bash, REST APIs, FastAPI, OpenAPI, pytest, JSON, XML, YAML
 - **Deployment/Infrastructure:** Docker, Docker Compose, Git, GitLab, GitHub, GitHub Actions
@@ -78,16 +79,16 @@ Self-taught • Goal-oriented • Proactive • Teamwork • Communication • P
 - Communicating technical concepts effectively to cross-functional teams.
 - Collaborating with software engineers and researchers to deliver scalable solutions. -->
 
-**Engineering Focus**
+### Engineering Focus
 - Computer vision and deep-learning systems
 - Modular AI inference and deployment architectures
 - ROS/ROS2 perception and robotics systems
 - Production-oriented Python/C++ development
 - API, testing and reproducible deployment workflows
 
-**Spoken Languages**
-- **Spanish** | Native: full professional proficiency.
-- **English** | B2 Advanced / Professional Working Proficiency. Certified by Cinvestav and Desafío Latam. [See certificate](https://cursos.desafiolatam.com/certificates/hcmv4svhi8)
+### Spoken Languages
+- **Spanish:** Native: full professional proficiency.
+- **English:** B2 Advanced / Professional Working Proficiency. Certified by Cinvestav and Desafío Latam. [See certificate](https://cursos.desafiolatam.com/certificates/hcmv4svhi8)
 
 
 ## Work Experience & Projects
