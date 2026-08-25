@@ -62,29 +62,33 @@ I am particularly interested in roles such as AI/ML Engineer, Computer Vision En
 **Top skills:** Artificial intelligence / Machine Learning • Computer vision • Embedded systems • ROS/ROS2
 
 **Technical Skills:**
-- **AI/ML:** Computer Vision, Deep Learning, CNNs, LSTM, Time Series, Image Segmentation (Mask R-CNN), Model Optimization
-- **Programming languages:** Python, C++, SQL, Bash, MATLAB, MPLAB (XC8), Arduino
-- **Frameworks & Libraries:**
-   - **C++ and Python:** OpenCV, TensorFlow/Keras
-   - **Python:** Scikit-learn, Pandas, Matplotlib, Seaborn, NumPy, JSON, Tkinter
-   - **Deployment & Backend:** FastAPI, SQLAlchemy
-   - **Robotics:** ROS/ROS2 with C++ and Python
-- **Development tools:** VS Code, Jupyter Notebook, Git, GitHub, GitLab
-- **Embedded system tools:** SOLIDWORKS, PROTEUS, LabVIEW
-- **Operating systems:** Ubuntu (Linux), Windows
-- **Document preparation and office tools:** LaTeX, Markdown, MediaWiki, MS Office, Dia (diagram editor)
+- **AI/Computer Vision:** Computer Vision, Deep Learning (Mask R-CNN), Object Detection, Image Segmentation, Model Optimization, PyTorch, TensorFlow/Keras, OpenCV
+- **Software Engineering:** Python, C++, SQL, Bash, REST APIs, FastAPI, OpenAPI, pytest, JSON, XML, YAML
+- **Deployment/Infrastructure:** Docker, Docker Compose, Git, GitLab, GitHub, GitHub Actions
+- **Robotics/Embedded:** ROS/ROS2, RViz, Gazebo, Embedded Linux, C++/Python robotics development
+- **Data/ML:** NumPy, Pandas, Scikit-learn, Matplotlib, SQLAlchemy, Time Series Analysis (ARIMA), LSTM
+- **GNU/Linux:** Ubuntu & Arch Linux
+- **Documentation:** LaTeX, Markdown, MediaWiki, MS Office, Dia Diagram
 
-**Soft Skills:**
+<!-- **Soft Skills:**
 Self-taught • Goal-oriented • Proactive • Teamwork • Communication • Positive attitude • Responsible • Customer Support
 
 **Core Strengths:**
 - Solving complex problems in AI/ML systems, computer vision, and ROS/ROS2-based modular architectures.
 - Communicating technical concepts effectively to cross-functional teams.
-- Collaborating with software engineers and researchers to deliver scalable solutions.
+- Collaborating with software engineers and researchers to deliver scalable solutions. -->
 
-**Languages:**
-- **Spanish:** Native • full professional proficiency.
-- **English:** Advanced B2 • fluent in reading, writing, and technical comprehension; intermediate spoken; proficient for research publications, documentation, and international collaboration. Certified by Cinvestav, Guadalajara Campus, and Desafío Latam. [See certificate](https://cursos.desafiolatam.com/certificates/hcmv4svhi8)
+**Engineering Focus**
+- Computer vision and deep-learning systems
+- Modular AI inference and deployment architectures
+- ROS/ROS2 perception and robotics systems
+- Production-oriented Python/C++ development
+- API, testing and reproducible deployment workflows
+
+**Spoken Languages**
+- **Spanish** | Native: full professional proficiency.
+- **English** | B2 Advanced / Professional Working Proficiency. Certified by Cinvestav and Desafío Latam. [See certificate](https://cursos.desafiolatam.com/certificates/hcmv4svhi8)
+
 
 ## Work Experience & Projects
 ---
@@ -94,7 +98,7 @@ Self-taught • Goal-oriented • Proactive • Teamwork • Communication • P
 - **Technologies**: [List tools/frameworks used]. -->
 
 ### Robot Programming Instructor – ROS/ROS2 (Melodic Morenia, Foxy Fitzroy, and Humble Hawksbill)
-April 2024 – Present | *Tecnológico de Monterrey, Guadalajara Campus* | Zapopan, Jalisco, Mexico
+April 2024 – Present | *Tecnológico de Monterrey (ITESM), Guadalajara Campus* | Zapopan, Jalisco, Mexico
    - **Description:** **1)** Designing and delivering hands-on courses in ROS/ROS2 using C++ and Python, focused on differential drive robots. 
     **2)** Developing practical repositories and lecture notes covering the foundations of development, simulation, deployment, and monitoring of ROS/ROS2-based modular systems, including computer vision and autonomous navigation. 
     **3)** Recognized as a top-rated instructor. [See recognition](https://www.linkedin.com/feed/update/urn:li:activity:7249158255002714113/)
@@ -105,10 +109,10 @@ April 2024 – Present | *Tecnológico de Monterrey, Guadalajara Campus* | Zapop
 ### Mathematical Analyst in Information Technologies
 September 2025 – April 2026 | *Geovoy, Busmen Group* | Tlajomulco de Zúñiga, Jalisco, Mexico
    - **Description:** **1)** Built an automated reporting tool using LLM-powered APIs to generate analytical reports and insights.
-   **2)** Developed machine learning models for route optimization using time series analysis and LSTM architectures. 
+   **2)** Developed statistical and machine learning models (time series analysis (ARIMA), LSTM) for route optimization and demand prediction, generating insights to improve operational decision-making. 
     **3)** Designed and optimized APIs using FastAPI, raw SQL, and Object-Relational Mapping (ORM) to integrate statistical models into production systems for geolocation and inventory management. 
     **4)** Deployed a MediaWiki-based platform to standardize internal processes, code, and API documentation. 
-   - 🧩 **Skills:** FastAPI · SQLAlchemy · Time Series Analysis · LSTM · Forecasting · Predictive Modeling · GPT-OSS-20B · Ollama · Data Analysis · Bash
+   - 🧩 **Skills:** FastAPI · SQLAlchemy · Time Series · LSTM · Forecasting · Predictive Modeling · GPT-OSS-20B · Ollama · Data Analysis · Bash
 
 ### AI/Deep Learning Research Engineer – Computer Vision
 May 2021 – July 2024 | *Cinvestav, Guadalajara: Recognition of Fundus Pathologies – Medical Image Segmentation* | Zapopan, Jalisco, Mexico
@@ -140,6 +144,22 @@ August – December 2016 | *CUValles, University of Guadalajara* | Ameca, Jalisc
    - 🧩 **Skills:** MPLAB · I2C & SPI · Technical instruction · Code debugging · PROTEUS
 
 <!-- For more, check out the [Projects Folder](link-to-projects-folder). -->
+
+
+## Publications and Patents
+---
+<!-- - [Title of Paper 1](link-to-publication) -->
+<!-- - [Patent Title](link-to-patent) -->
+- Jun. 2024 • Meeting Abstract • Co-author on "Deep-learning based quantification of RPE65-mutation inherited retinal degeneration from wide-angle images – novel biomarkers for natural history and interventional studies" • presented at Investigative Ophthalmology & Visual Science • vol. 65(7) • p. 1392 • [ID: 2794864](https://iovs.arvojournals.org/article.aspx?articleid=2794864) 
+    - 🧩 **Skills:** AI/ML lifecycle · Computer vision / Medical image analysis · Data visualization · Mask R-CNN · Feature extraction · Research
+
+- Sep. 2023 • Journal Article • Co-author on "Quaternion and Split Quaternion Neural Networks for Low-Light Color Image Enhancement" • at IEEE Access • vol. 11 • pp. 108257-108280 • [Doi: 10.1109/ACCESS.2023.3312234](https://www.doi.org/10.1109/ACCESS.2023.3312234) 
+    - 🧩 **Skills:** AI/ML lifecycle · Computer vision / Image color analysis · Quaternion algebras · Color spaces · EKF
+
+- 2017 • Patent • Co-inventor on "Device for controlling underactuated two-link systems with one actuator, and method for controlling the device" • application No. MX/a/2017/016436 • filed under the Invention Support Program of the University of Guadalajara. 
+    - 🧩 **Skills:** Embedded systems · Control theory · Digital and power electronics · PICs · SPI & I2C communication protocols
+
+
 ## Academic Degrees:
 ---
 ### Ph.D. in Science in Electrical Engineering — AI/Deep Learning
@@ -158,23 +178,9 @@ September 4, 2017 – August 2, 2019 | Cinvestav, Guadalajara Campus | Zapopan, 
 
 ### B.Eng. in Mechatronics — Embedded Systems
 August 1, 2012 – December 16, 2016 | CUValles, University of Guadalajara | Ameca, Jalisco, Mexico
-   - **Social service & Professional Internship:** Developed embedded and mechatronic projects in an electronics and telecommunications laboratory.
+   - **Social Service & Professional Internship:** Developed embedded and mechatronic projects in an electronics and telecommunications laboratory.
    - **Overall Result:** 98.02/100
    - 🧩 **Skills:** Embedded systems · Linear algebra · Calculus · Control theory · Digital and power electronics · HMI · PICs & Arduino
-
-
-## Publications and Patents
----
-<!-- - [Title of Paper 1](link-to-publication) -->
-<!-- - [Patent Title](link-to-patent) -->
-- Jun. 2024 • Meeting Abstract • Co-author on "Deep-learning based quantification of RPE65-mutation inherited retinal degeneration from wide-angle images – novel biomarkers for natural history and interventional studies" • presented in Investigative Ophthalmology & Visual Science • vol. 65(7) • p. 1392 • https://iovs.arvojournals.org/article.aspx?articleid=2794864 
-    - 🧩 **Skills:** AI/ML lifecycle · Computer vision / Medical image analysis · Data visualization · Mask R-CNN · Feature extraction · Research
-
-- Sep. 2023 • Journal Article • Co-author on "Quaternion and Split Quaternion Neural Networks for Low-Light Color Image Enhancement" • in IEEE Access • vol. 11 • pp. 108257-108280 • Doi: https://www.doi.org/10.1109/ACCESS.2023.3312234 
-    - 🧩 **Skills:** AI/ML lifecycle · Computer vision / Image color analysis · Quaternion algebras · Color spaces · EKF
-
-- 2017 • Patent • Co-inventor on "Device for controlling underactuated two-link systems with one actuator, and method for controlling the device" • application No. MX/a/2017/016436 • filed under the Invention Support Program of the University of Guadalajara. 
-    - 🧩 **Skills:** Embedded systems · Control theory · Digital and power electronics · PICs · SPI & I2C communication protocols
 
 
 ## Certifications
