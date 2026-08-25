@@ -35,7 +35,7 @@ AI/ML & DL · Computer Vision · Embedded/Robotics Systems (ROS/ROS2) | Ph.D. in
 
 [🚧 Edge AI Lab](https://edavila-drraccoon.github.io/edge_ai_lab/) -->
 
-### ROS/ROS2 Portfolio
+### ROS/ROS2 Robotics Engineering Portfolio
 
 [✅ ROS2 Course — 2026](https://edavila-drraccoon.github.io/repo_ros2_course/)  
 [![C++](https://img.shields.io/badge/C%2B%2B-17%2B-blue)](https://isocpp.org/) [![Python](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/downloads/) [![License](https://img.shields.io/badge/License-Apache-green)](https://opensource.org/licenses/Apache-2.0) [![ROS 2 Humble Hawksbill](https://img.shields.io/badge/ROS%202-Humble%20Hawksbill-blue)](https://docs.ros.org/en/humble/) [![Ubuntu 22.04 LTS (Jammy Jellyfish)](https://img.shields.io/badge/Ubuntu-22.04%20LTS-green)](https://releases.ubuntu.com/22.04/)
@@ -97,7 +97,7 @@ Self-taught • Goal-oriented • Proactive • Teamwork • Communication • P
 April 2024 – Present | *Tecnológico de Monterrey, Guadalajara Campus* | Zapopan, Jalisco, Mexico
    - **Description:** **1)** Designing and delivering hands-on courses in ROS/ROS2 using C++ and Python, focused on differential drive robots. 
     **2)** Developing practical repositories and lecture notes covering the foundations of development, simulation, deployment, and monitoring of ROS/ROS2-based modular systems, including computer vision and autonomous navigation. 
-    **3)** Recognized as a top-rated professor. [See recognition](https://www.linkedin.com/feed/update/urn:li:activity:7249158255002714113/)
+    **3)** Recognized as a top-rated instructor. [See recognition](https://www.linkedin.com/feed/update/urn:li:activity:7249158255002714113/)
    - 🧩 **Skills:** C++ · Python · ROS/ROS2 · Bash · Computer Vision · Robotics · Embedded Linux · Technical instruction
    - [See repository 2026](https://edavila-drraccoon.github.io/repo_ros2_course/)
    - [See repository 2025](https://edavila-drraccoon.github.io/repo_ros2_course_2025/)
@@ -146,7 +146,7 @@ August – December 2016 | *CUValles, University of Guadalajara* | Ameca, Jalisc
 September 2, 2019 – May 17, 2024 | Cinvestav, Guadalajara Campus | Zapopan, Jalisco, Mexico
    - **Thesis:** Deep learning for recognition and quantification of fundus pathologies using instance segmentation, and quaternion neural networks for low-light image enhancement.
    - **Overall Result:** 100/100
-   - 🧩 **Skills:** AI/ML lifecycle · Computer vision / Image analysis · Deep Learnin · CNN/NN · Robotics · Research · Science Communication
+   - 🧩 **Skills:** AI/ML lifecycle · Computer vision / Image analysis · Deep Learning · CNN/NN · Robotics · Research · Science Communication
    - [Download thesis (PDF)](./EduardoDavila_PhDThesis_comp.pdf)
 
 ### M.Sc. in Electrical Engineering — AI/Machine Learning
@@ -171,7 +171,7 @@ August 1, 2012 – December 16, 2016 | CUValles, University of Guadalajara | Ame
     - 🧩 **Skills:** AI/ML lifecycle · Computer vision / Medical image analysis · Data visualization · Mask R-CNN · Feature extraction · Research
 
 - Sep. 2023 • Journal Article • Co-author on "Quaternion and Split Quaternion Neural Networks for Low-Light Color Image Enhancement" • in IEEE Access • vol. 11 • pp. 108257-108280 • Doi: https://www.doi.org/10.1109/ACCESS.2023.3312234 
-    - 🧩 **Skills:** AI/ANN lifecycle · Computer vision / Image color analysis · Quaternion algebras · Color spaces · EKF
+    - 🧩 **Skills:** AI/ML lifecycle · Computer vision / Image color analysis · Quaternion algebras · Color spaces · EKF
 
 - 2017 • Patent • Co-inventor on "Device for controlling underactuated two-link systems with one actuator, and method for controlling the device" • application No. MX/a/2017/016436 • filed under the Invention Support Program of the University of Guadalajara. 
     - 🧩 **Skills:** Embedded systems · Control theory · Digital and power electronics · PICs · SPI & I2C communication protocols
@@ -231,7 +231,7 @@ August 1, 2012 – December 16, 2016 | CUValles, University of Guadalajara | Ame
 - [**Statistics**](https://courses.cognitiveclass.ai/certificates/d4f37033a8ef44f9872fe887e46597d4) • Cognitive Class & IBM • Mar 4, 2026
    - **Description:** Understanding of descriptive statistics, normal distribution, standard deviation, variance, correlation, and best practices for data visualization.
 
-- [**Tensorflow-Keras Bootcamp**](https://courses.opencv.org/certificates/aae04f69482a44eeacdbd9e24ae73168) • OpenCV University • Oct. 11, 2024
+- [**TensorFlow-Keras Bootcamp**](https://courses.opencv.org/certificates/aae04f69482a44eeacdbd9e24ae73168) • OpenCV University • Oct. 11, 2024
    - **Description:** Learn to build and train neural networks. Master Multi-Layer Perceptrons (MLP) and Convolutional Neural Networks (CNN) for image classification and segmentation. Topics include training fundamentals, transfer learning, fine-tuning, and object detection, along with practical examples like MNIST, CIFAR-10, and using pre-trained ImageNet models.
    
 - [**TensorFlow: Working with Natural Language Processing (NLP)**](https://www.linkedin.com/learning/certificates/a5a4b8df1d4ef7631f1e22c5353c05725baa443d72964ab402a2c8c9657852fb) • LinkedIn • Oct. 18, 2024

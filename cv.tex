@@ -1,0 +1,317 @@
+%-------------------------
+% Resume in Latex
+% Author: Eduardo Dávila
+%------------------------
+
+\documentclass[legalpaper,10pt]{article} %letterpaper or a4paper
+
+% \usepackage[empty]{fullpage}
+\usepackage[top=1.0cm,bottom=1.0cm,left=0.75cm,right=0.75cm,]{geometry}
+
+\usepackage{latexsym}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames, dvipsnames]{color}
+\usepackage[x11names, table]{xcolor}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{multicol}
+\setlength{\multicolsep}{-3.0pt}
+\setlength{\columnsep}{5pt}
+% \input{glyphtounicode}
+
+%----------COLORS----------
+\definecolor{cvblue}{HTML}{0E5484}
+\definecolor{cvgreen}{HTML}{007170}
+\definecolor{maincolor}{HTML}{0E5484}
+\definecolor{WhiteSmoke}{RGB}{128,128,128}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\raggedright\large\scshape
+}{}{0em}{\textcolor{maincolor}}[\color{maincolor}\titlerule \vspace{-5pt}]{}
+
+% Ensure that generate pdf is machine readable/ATS parsable
+% \pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\classesList}[4]{
+    \item\small{
+        {#1 #2 #3 #4 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textbf{\small #2} \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{1.001\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & \textbf{\small #2}\\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemi{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+% My setup
+\usepackage[autostyle=true]{csquotes}
+\usepackage{microtype}
+\usepackage{float}
+\usepackage{ragged2e}
+\usepackage{academicons}
+\usepackage{seqsplit}
+\usepackage{graphicx}
+
+\newcommand{\SkillIcon}{\textcolor{WhiteSmoke}{\faPuzzlePiece}} % \faGem[regular]
+
+\newcommand{\ProductItem}[3]{
+    \vspace{0pt}\justifying\item
+    \textbf{\small#1} | {\footnotesize#2} \\
+    {\footnotesize\quad\SkillIcon\ #3}
+    \vspace{-7pt}
+}
+
+\newcommand{\WEPItem}[6]{
+    \vspace{0pt}\justifying\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{\small#1} & \textbf{\footnotesize#2} \\
+      \textit{\footnotesize#3} & \textit{\footnotesize#4} \\
+    \end{tabular*}
+    {\footnotesize#5} \\
+    {\footnotesize\quad\SkillIcon\ #6}
+    \vspace{-7pt}
+}
+
+\newcommand{\ResearchItem}[4]{
+    \vspace{0pt}\justifying\item
+    \textbf{\small#1} | \textbf{\footnotesize#2} | {\footnotesize#3} \\
+    {\footnotesize\quad\SkillIcon\ #4}
+    \vspace{-7pt}
+}
+
+\newcommand{\DegreeItem}[5]{
+    \vspace{0pt}\justifying\item
+    \textbf{\small#1} | \textbf{\footnotesize#2} \hfill \textbf{\footnotesize#3} \\
+    {\footnotesize#4} \\
+    {\footnotesize\quad\SkillIcon\ #5}
+    \vspace{-7pt}
+}
+
+\newcommand{\ExternalLink}{\textcolor{maincolor}{\scriptsize\textsuperscript{\faExternalLink*}}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    {\LARGE \scshape Eduardo de Jesús Dávila Meza, Ph.D.} \\ \vspace{1pt}
+    \small AI/ML \& DL • Computer Vision • Embedded/Robotics Systems (ROS/ROS2) \\ \vspace{1pt}
+    \vspace{2pt}% Engineer • Researcher • Educator \\ \vspace{1pt}
+    \footnotesize \href{mailto:eduardodavila94@hotmail.com}{\faEnvelope\  {eduardodavila94@hotmail.com} \ExternalLink} ~ 
+    \href{https://wa.me/qr/DOKPRLEDLX77N1}{\faWhatsapp\ {+52 33 2969 2743} \ExternalLink} ~ 
+    \href{https://edavila-drraccoon.github.io/portfolio_site/}{\faBriefcase\ {Professional Portfolio} \ExternalLink}  ~ 
+    \href{https://www.linkedin.com/in/EduardoDavilaMeza/}{\faLinkedin\ {EduardoDavilaMeza} \ExternalLink}  ~
+    \href{https://github.com/eDavila-DrRaccoon/}{\faGithub\ {eDavila-DrRaccoon} \ExternalLink} \\ \vspace{1pt} 
+    \faGraduationCap\ Federal Professional Certificates: Bachelor's Degree: \href{https://cedulaprofesional.sep.gob.mx/cedula/indexAvanzada.action?idCedula=12027207&idProfesionista=12095369&token=F1E4F2D34C7A333C90517CA80AB1DB69999A4B8B}{12027207 \ExternalLink} • Master's Degree: \href{https://cedulaprofesional.sep.gob.mx/cedula/indexAvanzada.action?idCedula=14043743&idProfesionista=14115164&token=CB0863B7F0A46D831C2C3DC4A95E539B32668E3C}{14043743 \ExternalLink} • Ph.D. Degree: \href{https://cedulaprofesional.sep.gob.mx/cedula/indexAvanzada.action?idCedula=15067339&idProfesionista=15140505&token=17C9CA664BAAE1F40541558FFDF476D9C062828C}{15067339 \ExternalLink} \vspace{-8pt}
+\end{center}
+
+% \vfill % \vspace{-14pt} % \vspace{5pt}
+
+%-----------Engineering Products-----------
+\section{Engineering Products}
+\vspace{-4pt}
+\resumeSubHeadingListStart
+    \ProductItem{\href{https://edavila-drraccoon.github.io/vision_pipeline/}{Vision Pipeline -- Production-oriented Computer Vision Inference Framework \ExternalLink}}{Modular FastAPI/Docker inference system using YOLO11 and PyTorch, with REST/OpenAPI interfaces, YAML configuration, structured logging, CLI inference, JSON response schema, automated testing, CI, and reproducible benchmarking.}{Python · PyTorch · YOLO11 · FastAPI · Docker · OpenAPI · pytest · GitHub Actions}
+    \ProductItem{\href{https://edavila-drraccoon.github.io/repo_ros2_course/}{ROS/ROS2 Robotics -- Robotics Software \& Perception Systems \ExternalLink}}{Modular ROS/ROS2 repositories covering differential-drive-robot programming, simulation, computer vision, navigation, embedded Linux and deployment-oriented robotics workflows.}{Stack: C++ · Python · ROS/ROS2 · OpenCV · Linux · Gazebo · RViz · Bash}
+\resumeSubHeadingListEnd
+
+\quad
+% \vfill % \vspace{-7pt}
+
+\begin{multicols}{2}
+%-----------TECHNICAL SKILLS-----------
+\section{Technical Skills}
+\vspace{-4pt}
+ \begin{itemize}[leftmargin=0pt, label={}]
+    \footnotesize\justifying{\item{
+        \textbf{AI/Computer Vision:} Computer Vision, Deep Learning (Mask R-CNN),\\
+        \hspace{3mm} Object Detection, Image Segmentation, Model Optimization, PyTorch,\\
+        \hspace{3mm} TensorFlow/Keras, OpenCV\\
+        \textbf{Software Engineering:} Python, C++, SQL, Bash, REST APIs, FastAPI,\\
+        \hspace{3mm} OpenAPI, pytest, JSON, XML, YAML \\
+        \textbf{Deployment/Infrastructure:} Docker, Docker Compose, Git, GitLab,\\
+        \hspace{3mm} GitHub, GitHub Actions\\
+        \textbf{Robotics/Embedded:} ROS/ROS2, RViz, Gazebo, Embedded Linux,\\
+        \hspace{3mm} C++/Python robotics development\\
+        \textbf{Data/ML:} NumPy, Pandas, Scikit-learn, Matplotlib, SQLAlchemy,\\
+        \hspace{3mm} Time Series Analysis (ARIMA), LSTM\\
+        \textbf{GNU/Linux:} Ubuntu \& Arch Linux\\
+        \textbf{Documentation:} LaTeX, Markdown, MediaWiki, MS~Office, Dia Diagram
+    }}
+ \end{itemize}
+
+\newcolumn
+
+ %------Engineering Focus-------
+\section{Engineering Focus}
+\vspace{-4pt}
+\begin{itemize}[itemsep=-5pt, parsep=5pt, leftmargin=10pt]\footnotesize
+    \item Computer vision and deep-learning systems
+    \item Modular AI inference and deployment architectures
+    \item ROS/ROS2 perception and robotics systems
+    \item Production-oriented Python/C++ development
+    \item API, testing and reproducible deployment workflows
+\end{itemize}
+
+%-----------LANGUAGES-----------
+\section{Spoken Languages}
+\vspace{-4pt}
+ \begin{itemize}[leftmargin=2mm, label={}]\footnotesize\justifying
+    {\item{
+        \textbf{Spanish}{ $|$ Native: full professional proficiency.} \\
+        \textbf{English}{ $|$ B2 Advanced / Professional Working Proficiency.\\
+        \hspace{13mm} Certified by Cinvestav and \href{https://cursos.desafiolatam.com/certificates/hcmv4svhi8}{Desafío Latam \ExternalLink}.}
+    }}
+ \end{itemize}
+
+\end{multicols}
+
+% \vfill % \vspace{-7pt}
+
+%-----------WORK EXPERIENCE & PROJECTS-----------
+\section{Work Experience \& Projects | \small\href{https://www.linkedin.com/in/EduardoDavilaMeza/details/experience/}{Full List \ExternalLink}}
+\vspace{-4pt}
+\resumeSubHeadingListStart
+    \WEPItem
+    {Robot Programming Instructor -- ROS/ROS2}{April 2024 -- Present}
+    {Tecnológico de Monterrey (ITESM), Guadalajara}{Zapopan, Jalisco}
+    {\textbf{1)} Designed and delivered hands-on courses in ROS/ROS2 using C++ and Python, focused on differential drive robots. 
+    \textbf{2)} Developed practical repositories and lecture notes covering the foundations of development, simulation, deployment, and monitoring of ROS/ROS2-based modular systems, including computer vision and autonomous navigation. 
+    \textbf{3)} Recognized as a top-rated instructor (\href{https://www.linkedin.com/feed/update/urn:li:activity:7249158255002714113/}{See recognition \ExternalLink}). 
+    \href{https://edavila-drraccoon.github.io/repo_ros2_course_2025/}{See repository 2025 \ExternalLink}. 
+    \href{https://edavila-drraccoon.github.io/repo_ros2_course/}{See latest repository \ExternalLink}.}
+    {C++ · Python · ROS/ROS2 · Bash · Computer Vision · Robotics · Embedded Linux · Technical instruction}
+    \WEPItem
+    {Mathematical Analyst in Information Technologies}{September 2025 -- April 2026}
+    {Geovoy, Busmen Group}{Tlajomulco de Zúñiga, Jalisco}
+    {\textbf{1)} Built an automated reporting tool using LLM-powered APIs to generate analytical reports and insights.
+    \textbf{2)} Developed statistical and machine learning models (time series analysis (ARIMA), LSTM) for route optimization and demand prediction, generating insights to improve operational decision-making.
+    % \textbf{1)} Developed machine learning models for route optimization using time series analysis and LSTM architectures. 
+    \textbf{3)} Designed and optimized APIs using FastAPI, raw SQL, and Object-Relational Mapping (ORM) to integrate statistical models into production systems for geolocation and inventory management. 
+    \textbf{4)} Deployed a MediaWiki-based platform to standardize internal processes, code, and API documentation.}
+    {FastAPI · SQLAlchemy · Time Series · LSTM · Forecasting · Predictive Modeling · GPT-OSS-20B · Ollama · Data Analysis · Bash}
+    \WEPItem
+    {AI/Deep Learning Research Engineer -- Computer Vision}{May 2021 -- July 2024}
+    {Cinvestav, Guadalajara: Medical Image Segmentation Project}{Zapopan, Jalisco}
+    {\textbf{1)} Developed a deep learning model for medical image analysis, in collaboration with German research institutions, to support clinical decision-making, focusing on segmentation and quantification of retinal pathologies.
+    \textbf{2)} Applied data preprocessing, augmentation, feature extraction, and model validation techniques to ensure robustness and reliability in healthcare-related datasets.
+    % \textbf{1)} Developed and trained a Mask R-CNN model for medical image segmentation in collaboration with German research institutions. 
+    % \textbf{2)} Implemented end-to-end ML pipelines, including data preprocessing, augmentation, training, and validation. 
+    \textbf{3)} Worked with high-resolution image datasets to improve the detection and segmentation of retinal pathologies. 
+    \textbf{4)} Contributed to a research publication in computer vision and medical imaging.}
+    {Computer Vision · Deep Learning · TensorFlow/Keras · Mask R-CNN · Image Segmentation · Data labeling, augmentation, and visualization}
+    \WEPItem
+    {Computer Vision \& ROS Developer}{December 2019 -- October 2023}
+    {Cinvestav, Guadalajara: Intelligent Visual Guide System (OJO SMART) -- Modular Navigation Device}{Zapopan, Jalisco}
+    {\textbf{1)} Developed ROS-based modules for real-time recognition of colors, objects, signs, banknotes, and text using computer vision techniques. 
+    \textbf{2)} Contributed to the integration of multiple perception systems into an assistive navigation device for visually impaired users.}
+    {Computer Vision · C++ · Python · ROS · Tesseract OCR · OpenCV · TensorFlow · Embedded Linux} 
+\resumeSubHeadingListEnd
+% \centering{\small\href{https://www.linkedin.com/in/EduardoDavilaMeza/details/experience/}{Full List \ExternalLink}}
+
+% \vfill % \vspace{-10pt}
+% \newpage
+% \vfill
+%-----------RESEARCH-----------
+\section{Publications \& Patents}
+\vspace{-4pt}
+\resumeSubHeadingListStart
+    \ResearchItem{Meeting Abstract}{June 2024}{\enquote{Deep-learning based quantification of RPE65-mutation inherited retinal degeneration}, presented at \textit{Investigative Ophthalmology \& Visual Science}, vol. 65(7), 1392, {\faInfoCircle} \href{https://iovs.arvojournals.org/article.aspx?articleid=2794864}{ID: 2794864 \ExternalLink}.}{AI/ML lifecycle · Computer vision / Medical image analysis · Data visualization · Mask R-CNN · Feature extraction · Research}
+    \ResearchItem{Journal Article}{September 2023}{\enquote{Quaternion and Split Quaternion Neural Networks for Low-Light Color Image Enhancement}, in \textit{IEEE Access}, vol. 11, 108257-108280, {\aiDoi} \href{https://www.doi.org/10.1109/ACCESS.2023.3312234}{10.1109/ACCESS.2023.3312234 \ExternalLink}.}{AI/ML lifecycle · Computer vision / Image color analysis · Quaternion algebras · Color spaces · EKF}
+	\ResearchItem{Patent}{March 2017}{\enquote{Device for controlling underactuated two-link systems with one actuator}, filed under the Invention Support Program, University of Guadalajara. Application no. MX/a/2017/016436.}{Embedded systems · Control theory · Digital and power electronics · PICs · SPI \& I2C communication protocols}
+\resumeSubHeadingListEnd
+
+% \vfill % \vspace{-10pt}
+
+%-----------EDUCATION-----------
+\section{Academic Degrees}
+\vspace{-4pt}
+\resumeSubHeadingListStart
+    \DegreeItem{Ph.D. in Science -- AI/Deep Learning}{Cinvestav, Guadalajara}{September 2019 -- May 2024}{\textbf{Thesis} $|$ Deep learning for recognition and quantification of fundus pathologies using instance segmentation, and quaternion neural networks for low-light image enhancement. \href{https://edavila-drraccoon.github.io/portfolio_site/EduardoDavila_PhDThesis_comp.pdf}{Download thesis \ExternalLink}.}{AI/ML lifecycle · Computer vision / Image analysis · Deep Learning · CNN/NN · Robotics · Research · Science Communication}
+    \DegreeItem{M.Sc. -- AI/Machine Learning}{Cinvestav, Guadalajara}{September 2017 -- August 2019}{\textbf{Thesis} $|$ Quaternion neural networks for low-light image enhancement, and identification of an electromechanical system. \href{https://edavila-drraccoon.github.io/portfolio_site/EduardoDavila_MScThesis.pdf}{Download thesis \ExternalLink}.}{AI/ANNs · Computer vision · Linear algebra · Control theory · Robotics · Probability \& statistics · Research · Science Communication}
+    \DegreeItem{B.Eng. in Mechatronics -- Embedded Systems}{University of Guadalajara}{August 2012 -- December 2016}{\textbf{Social Service \& Professional Internship} $|$ Developed embedded and mechatronic projects in an electronics and telecommunications laboratory.}{Embedded systems · Linear algebra · Calculus · Control theory · Digital and power electronics · HMI · PICs \& Arduino}
+\resumeSubHeadingListEnd
+
+% \vfill % \vspace{-10pt}
+
+%------RELEVANT COURSEWORK-------
+\section{Certifications | Additional Training}
+\vspace{-13pt}
+\begin{table}[H]
+    \footnotesize\centering
+    \begin{tabular}{m{0.14\textwidth}m{0.14\textwidth}m{0.14\textwidth}m{0.14\textwidth}m{0.14\textwidth}m{0.14\textwidth}m{0.14\textwidth}}
+        \Centering{\href{https://www.kaggle.com/learn/certification/edudavilameza/intro-to-deep-learning}{AI/DL \ExternalLink}} & 
+        \Centering{\href{https://www.kaggle.com/learn/certification/edudavilameza/machine-learning-explainability}{AI/ML \ExternalLink}} &
+        \Centering{\href{https://www.kaggle.com/learn/certification/edudavilameza/data-cleaning}{Data Cleaning \ExternalLink}} &
+        \Centering\href{https://www.linkedin.com/learning/certificates/2261b75490a62ea5ecab557d71aa6983cba8f455657bf8ff744ee62bd0b67613}{LLMs \ExternalLink} &  
+        \Centering{\href{https://www.linkedin.com/learning/certificates/a5a4b8df1d4ef7631f1e22c5353c05725baa443d72964ab402a2c8c9657852fb}{NLP \ExternalLink}} &
+        \Centering{\href{https://courses.opencv.org/certificates/a96250fd98bf4ee9b8a0c90fb58bc33f}{OpenCV \ExternalLink}} &
+        \Centering{\href{https://www.linkedin.com/learning/certificates/a6e8ae843a44e5c56ea97e1617a63522c718c38561ec9b1400af0eaf0cd847fd}{Pandas \ExternalLink}} \\
+        \Centering{\href{https://www.hackerrank.com/certificates/2dac4930dd09}{Python \ExternalLink}} &
+        \Centering{\href{https://courses.cognitiveclass.ai/certificates/ba77ecd8587e4861857038c150622caa}{R for DS \ExternalLink}} &
+        \Centering{\href{https://www.udemy.com/certificate/UC-d296a1a6-9b5f-4eb6-a7c5-1dc71f63b10d/}{ROS \ExternalLink}} &
+        \Centering{\href{https://www.linkedin.com/learning/certificates/483b9b7b60ed28af6f1117f5965b6b3e15b42203c8aea2cd8c418d2b8e7d6e03}{Scikit-learn \ExternalLink}} &
+        \multicolumn{1}{c}{\centering\href{https://www.kaggle.com/learn/certification/edudavilameza/intro-to-sql}{SQL \ExternalLink}} &
+        \Centering{\href{https://courses.opencv.org/certificates/aae04f69482a44eeacdbd9e24ae73168}{TensorFlow/Keras \ExternalLink}} &
+        \multicolumn{1}{c}{\centering\href{https://www.linkedin.com/in/EduardoDavilaMeza/details/certifications/}{Full list \ExternalLink}} 
+    \end{tabular}
+\end{table}
+
+\vfill % 
+
+\end{document}
+
