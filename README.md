@@ -1,9 +1,9 @@
 <!-- 
 Title and description included in `_config.yml`
 
-# Eduardo de Jesús Dávila Meza — Professional Portfolio
+# Eduardo de Jesús Dávila Meza — AI/Computer Vision Engineer Portfolio
 
-AI/ML & DL · Computer Vision · Embedded/Robotics Systems (ROS/ROS2) | Ph.D. in Science — AI/DL & ML | Engineer · Researcher · Educator --> 
+AI/ML & Deep Learning · Computer Vision · Embedded/Robotics Systems (ROS/ROS2) | Ph.D. in Science — AI/Deep Learning | Python · C++ · PyTorch/TensorFlow · FastAPI · SQL --> 
 
 ## Contact Me
 ---
@@ -43,19 +43,20 @@ AI/ML & DL · Computer Vision · Embedded/Robotics Systems (ROS/ROS2) | Ph.D. in
 [✅ ROS2 Course — 2025](https://edavila-drraccoon.github.io/repo_ros2_course_2025/)  
 [![C++](https://img.shields.io/badge/C%2B%2B-14%2B-blue)](https://isocpp.org/) [![Python](https://img.shields.io/badge/Python-3.8-blue)](https://www.python.org/downloads/) [![License](https://img.shields.io/badge/License-Apache-green)](https://opensource.org/licenses/Apache-2.0) [![ROS 2 Foxy Fitzroy](https://img.shields.io/badge/ROS%202-Foxy%20Fitzroy-blue)](https://docs.ros.org/en/foxy/) [![Ubuntu 20.04 LTS (Focal Fossa)](https://img.shields.io/badge/Ubuntu-20.04%20LTS-green)](https://releases.ubuntu.com/20.04/)
 
+
 ## About Me
 ---
-I am an Engineer with a Ph.D. in Electrical Engineering from **Cinvestav**, IPN, where I specialized in **deep learning** and **computer vision**. My work focuses on developing **AI/ML and computer vision solutions**, as well as **embedded/robotics systems using ROS/ROS2**, designed for real-world deployment.
 
-My experience includes developing machine learning models, designing FastAPI-based services to integrate statistical and predictive models into production systems, and building LLM-powered tools for automated reporting and analytics. I have also worked extensively in computer vision, including medical image segmentation using Mask R-CNN and real-time perception systems for robotics using ROS/ROS2.
+I am an **AI/Computer Vision Engineer** with a Ph.D. in Science from **Cinvestav, IPN**, combining deep-learning research experience with software engineering and embedded/robotics systems development. My work focuses on building **AI/ML and computer vision systems designed for real-world deployment**, with an emphasis on modular architectures, reproducibility, and maintainable engineering practices.
 
-I have contributed to projects ranging from fundus pathology detection in collaboration with German university hospitals to the development of OJO SMART, a vision-based assistive system for visually impaired users. In this project, I integrated perception modules using ROS for object, text, and scene recognition. My work combines strong theoretical foundations with practical engineering, focusing on scalable, efficient, and well-documented solutions.
+My experience spans the development of **computer vision and deep-learning models**, **production-oriented APIs and inference services**, and **ROS/ROS2-based robotics systems**. I have developed FastAPI services for integrating statistical and predictive models into operational systems, built LLM-powered tools for automated reporting and analytics, and developed modular computer vision systems for both medical and embedded/robotics applications.
 
-My background includes machine learning, computer vision, and embedded systems, with hands-on experience in **Python**, **C++**, **TensorFlow/Keras**, **Scikit-learn**, **OpenCV**, and backend development. I am particularly interested in building efficient and reliable AI systems that operate in real-world and resource-constrained environments.
+My computer vision experience includes **medical image segmentation using Mask R-CNN** for fundus pathology recognition in collaboration with German research institutions, as well as real-time perception systems for robotics. As a co-developer of **OJO SMART**, a vision-based assistive system for visually impaired users, I contributed to integrating perception modules for object, text, banknote, color, and scene recognition using ROS-based modular architectures.
 
-In addition to my engineering work, I have designed and delivered hands-on courses in **ROS/ROS2** using **C++** and **Python**, focused on differential drive robots. I have also developed practical repositories and lecture materials covering the development, simulation, deployment, and monitoring of ROS/ROS2-based modular systems, including computer vision and autonomous navigation. I have been recognized as a top-rated instructor, strengthening my ability to communicate complex ideas and collaborate effectively across teams.
+My current engineering portfolio extends this experience into production-oriented software development. **Vision Pipeline** demonstrates modular computer vision inference using **Python, PyTorch, YOLO11, FastAPI, Docker, OpenAPI, automated testing, CI, and reproducible benchmarking**. My **ROS/ROS2 Robotics Engineering Portfolio** demonstrates practical development, simulation, deployment, and monitoring of modular robotics systems using **C++ and Python**, with computer vision, navigation, and embedded Linux.
 
-I am particularly interested in roles such as AI/ML Engineer, Computer Vision Engineer, or Embedded/Robotics AI Engineer, where I can contribute to building impactful, production-ready AI systems.
+In parallel with my engineering work, I design and deliver hands-on **ROS/ROS2 programming courses**, develop technical repositories and documentation, and communicate complex engineering concepts to students and multidisciplinary teams. This combination of research depth, practical systems development, and technical communication supports my goal of contributing to **AI/ML, Computer Vision, and Embedded/Robotics engineering teams building reliable and production-ready systems**.
+
 
 ## Skills and Tools
 ---
