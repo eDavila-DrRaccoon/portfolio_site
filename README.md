@@ -40,8 +40,6 @@ AI/ML & DL · Computer Vision · Embedded/Robotics Systems (ROS/ROS2) | Ph.D. in
 [✅ ROS2 Course — 2026](https://edavila-drraccoon.github.io/repo_ros2_course/)  
 [![C++](https://img.shields.io/badge/C%2B%2B-17%2B-blue)](https://isocpp.org/) [![Python](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/downloads/) [![License](https://img.shields.io/badge/License-Apache-green)](https://opensource.org/licenses/Apache-2.0) [![ROS 2 Humble Hawksbill](https://img.shields.io/badge/ROS%202-Humble%20Hawksbill-blue)](https://docs.ros.org/en/humble/) [![Ubuntu 22.04 LTS (Jammy Jellyfish)](https://img.shields.io/badge/Ubuntu-22.04%20LTS-green)](https://releases.ubuntu.com/22.04/)
 
-
-
 [✅ ROS2 Course — 2025](https://edavila-drraccoon.github.io/repo_ros2_course_2025/)  
 [![C++](https://img.shields.io/badge/C%2B%2B-14%2B-blue)](https://isocpp.org/) [![Python](https://img.shields.io/badge/Python-3.8-blue)](https://www.python.org/downloads/) [![License](https://img.shields.io/badge/License-Apache-green)](https://opensource.org/licenses/Apache-2.0) [![ROS 2 Foxy Fitzroy](https://img.shields.io/badge/ROS%202-Foxy%20Fitzroy-blue)](https://docs.ros.org/en/foxy/) [![Ubuntu 20.04 LTS (Focal Fossa)](https://img.shields.io/badge/Ubuntu-20.04%20LTS-green)](https://releases.ubuntu.com/20.04/)
 
@@ -95,7 +93,7 @@ Self-taught • Goal-oriented • Proactive • Teamwork • Communication • P
 - **Key Features**: [Bullet points of achievements or technologies used].
 - **Technologies**: [List tools/frameworks used]. -->
 
-### Robot Programming Instructor – ROS/ROS2
+### Robot Programming Instructor – ROS/ROS2 (Melodic Morenia, Foxy Fitzroy, and Humble Hawksbill)
 April 2024 – Present | *Tecnológico de Monterrey, Guadalajara Campus* | Zapopan, Jalisco, Mexico
    - **Description:** **1)** Designing and delivering hands-on courses in ROS/ROS2 using C++ and Python, focused on differential drive robots. 
     **2)** Developing practical repositories and lecture notes covering the foundations of development, simulation, deployment, and monitoring of ROS/ROS2-based modular systems, including computer vision and autonomous navigation. 
@@ -120,7 +118,7 @@ May 2021 – July 2024 | *Cinvestav, Guadalajara: Recognition of Fundus Patholog
   **4)** Contributed to a research publication in computer vision and medical imaging.
   - 🧩 **Skills:** Computer Vision · Deep Learning · TensorFlow/Keras · Mask R-CNN · Image Segmentation · Data labeling, augmentation, and visualization
 
-### Computer Vision & ROS Developer
+### Computer Vision & ROS Developer (Kinetic Kame)
 December 2019 – October 2023 | *Cinvestav, Guadalajara: Intelligent Visual Guide System (OJO SMART) – Modular Assistive Navigation Device* | Zapopan, Jalisco, Mexico
   - **Description:** **1)** Developed ROS-based modules for real-time recognition of colors, objects, signs, banknotes, and text using computer vision techniques. 
    **2)** Contributed to the integration of multiple perception systems into an assistive navigation device for visually impaired users.
