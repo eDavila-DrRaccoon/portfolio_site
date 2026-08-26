@@ -1,23 +1,27 @@
 # LinkedIn profile
 
 ## Headline
-AI/ML & DL · Computer Vision · Embedded/Robotics Systems (ROS/ROS2) | Python · C++ · PyTorch/TensorFlow · FastAPI · SQL
+
+AI/ML & DL · Computer Vision · Embedded/Robotics Systems (ROS/ROS2) | Python · C++ · PyTorch · FastAPI · SQL · Docker
 
 ## About
 
-AI Engineer specializing in Computer Vision for AI applications and embedded/robotics systems, with experience in research, development and implementation of AI/Machine Learning and Deep Learning models using Python, C++, ROS/ROS2 and modern computer vision technologies.
+I am an **AI/Computer Vision Engineer** with a Ph.D. in Science from **Cinvestav, IPN**, combining deep-learning research experience with software engineering and embedded/robotics systems development.
 
-I develop AI systems, from model design to deployment in real-world applications. My experience includes LSTM-based models for route optimization, FastAPI services for integrating ML into production systems, and LLM-powered tools for automated reporting and analytics.
+My experience spans the development of **AI/ML and computer vision models**, **production-oriented APIs and inference services**, and **ROS/ROS2-based robotics systems**. I work primarily with Python and C++, and have experience with PyTorch, TensorFlow/Keras, OpenCV, FastAPI, SQL, Docker, and Linux-based development environments.
 
-I have worked on computer vision applications such as medical image segmentation (Mask R-CNN) and real-time perception for embedded/robotics systems. As co-developer of OJO SMART, I contributed to building an assistive system for visually impaired users using ROS/ROS2-based modular architectures.
+In computer vision, I developed deep-learning solutions for **medical image segmentation using Mask R-CNN** in collaboration with German research institutions, focusing on the detection, segmentation, and quantification of retinal pathologies. I also contributed to real-time perception systems for embedded/robotics applications, including **OJO SMART**, a vision-based assistive system for visually impaired users using ROS-based modular architectures.
 
-Skilled in Python, C++, TensorFlow/Keras, Scikit-learn, Pandas, OpenCV, and backend development, I focus on building efficient and reliable AI systems that operate in real-world and resource-constrained environments.
+My applied software engineering experience includes building **FastAPI services** to integrate statistical and predictive models into operational systems, developing **LSTM and time-series models** for route optimization and demand prediction, and creating **LLM-powered tools** for automated reporting and analytics.
 
-Interested in roles such as AI/ML Engineer, Computer Vision Engineer, or Embedded/Robotics AI Engineer, where I can contribute to building impactful, production-ready AI systems.
+My current engineering portfolio focuses on turning these capabilities into maintainable software products. **Vision Pipeline** demonstrates modular computer vision inference using **PyTorch, YOLO11, FastAPI, Docker, OpenAPI, automated testing, CI, and reproducible benchmarking**, while my **ROS/ROS2 Robotics Engineering Portfolio** demonstrates practical development, simulation, deployment, and monitoring of modular robotics systems.
+
+I am particularly interested in **AI/ML Engineer, Computer Vision Engineer, and Embedded/Robotics AI Engineer** roles where I can contribute to building reliable, production-ready systems at the intersection of AI, software engineering, and real-world deployment.
 
 ## Top skills
 
-Machine Learning • Computer vision • Artificial Intelligence (AI) • Robot Operating System (ROS) • Robotics
+Computer Vision • Machine Learning • Python • C++ • ROS/ROS2
 
 ## About (Short version)
-...
+
+AI/Computer Vision Engineer with a Ph.D. in Science and experience spanning deep learning, production-oriented software, and ROS/ROS2 robotics systems. Skilled in Python, C++, PyTorch, TensorFlow/Keras, OpenCV, FastAPI, Docker, and Linux, with experience building computer vision models, AI services, and modular robotics systems for real-world applications.
