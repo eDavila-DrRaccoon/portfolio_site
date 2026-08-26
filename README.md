@@ -61,7 +61,7 @@ In parallel with my engineering work, I design and deliver hands-on **ROS/ROS2 p
 ## Skills and Tools
 ---
 ### Top skills
-Computer Vision • Machine Learning • Python • C++ • ROS/ROS2 • PyTorch • FastAPI 
+Machine Learning • Computer Vision • Python • C++ • ROS/ROS2 • PyTorch • FastAPI • SQL • Docker
 
 ### Technical Skills
 - **AI/Computer Vision:** Computer Vision, Deep Learning (Mask R-CNN), Object Detection, Image Segmentation, Model Optimization, PyTorch, TensorFlow/Keras, OpenCV
