@@ -1,12 +1,16 @@
 %-------------------------
-% Resume in Latex
+% Reusable Cover Letter in LaTeX
 % Author: Eduardo Dávila
+%
+% Replace the following placeholders for each application:
+%   [POSITION TITLE] in \PositionTitle 
+%   [COMPANY NAME] in \CompanyName
 %------------------------
 
 \documentclass[letterpaper,10pt]{article}
 
 % \usepackage[empty]{fullpage}
-\usepackage[letterpaper,top=1.0cm,bottom=1.0cm,left=1.0cm,right=1.0cm,]{geometry}
+\usepackage[top=1.0cm,bottom=1.0cm,left=1.0cm,right=1.0cm]{geometry}
 
 \usepackage{latexsym}
 \usepackage{titlesec}
@@ -23,6 +27,7 @@
 \usepackage{multicol}
 \setlength{\multicolsep}{-3.0pt}
 \setlength{\columnsep}{5pt}
+
 % \input{glyphtounicode}
 
 %----------COLORS----------
@@ -31,6 +36,7 @@
 \definecolor{maincolor}{HTML}{0E5484}
 \definecolor{WhiteSmoke}{RGB}{128,128,128}
 
+%----------PAGE STYLE----------
 \pagestyle{fancy}
 \fancyhf{} % clear all header and footer fields
 \fancyfoot{}
@@ -41,59 +47,15 @@
 \raggedright
 \setlength{\tabcolsep}{0in}
 
-% Sections formatting
+%----------SECTION STYLE----------
 \titleformat{\section}{
-  \vspace{-4pt}\raggedright\large\scshape
+\vspace{-4pt}\raggedright\large\scshape
 }{}{0em}{\textcolor{maincolor}}[\color{maincolor}\titlerule \vspace{-5pt}]
 
-% Ensure that generate pdf is machine readable/ATS parsable
+% Ensure that generated PDF is machine readable / ATS parsable
 % \pdfgentounicode=1
 
-%-------------------------
-% Custom commands
-\newcommand{\resumeItem}[1]{
-  \item\small{
-    {#1 \vspace{-2pt}}
-  }
-}
-
-\newcommand{\classesList}[4]{
-    \item\small{
-        {#1 #2 #3 #4 \vspace{-2pt}}
-  }
-}
-
-\newcommand{\resumeSubheading}[4]{
-  \vspace{-2pt}\item
-    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
-      \textbf{#1} & \textbf{\small #2} \\
-      \textit{\small#3} & \textit{\small #4} \\
-    \end{tabular*}\vspace{-7pt}
-}
-
-\newcommand{\resumeSubSubheading}[2]{
-    \item
-    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
-      \textit{\small#1} & \textit{\small #2} \\
-    \end{tabular*}\vspace{-7pt}
-}
-
-\newcommand{\resumeProjectHeading}[2]{
-    \item
-    \begin{tabular*}{1.001\textwidth}{l@{\extracolsep{\fill}}r}
-      \small#1 & \textbf{\small #2}\\
-    \end{tabular*}\vspace{-7pt}
-}
-
-\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
-
-\renewcommand\labelitemi{$\vcenter{\hbox{\tiny$\bullet$}}$}
-\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
-
-\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
-\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
-\newcommand{\resumeItemListStart}{\begin{itemize}}
-\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+%----------CUSTOM COMMANDS----------
 
 % My setup
 \usepackage[autostyle=true]{csquotes}
@@ -104,52 +66,21 @@
 \usepackage{seqsplit}
 \usepackage{graphicx}
 
-\newcommand{\SkillIcon}{\textcolor{WhiteSmoke}{\faPuzzlePiece}} % \faGem[regular]
-
-\newcommand{\ProductItem}[3]{
-    \vspace{0pt}\justifying\item
-    \textbf{\small#1} | {\footnotesize#2} \\
-    {\footnotesize\quad\SkillIcon\ #3}
-    \vspace{-7pt}
-}
-
-\newcommand{\WEPItem}[6]{
-    \vspace{0pt}\justifying\item
-    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
-      \textbf{\small#1} & \textbf{\footnotesize#2} \\
-      \textit{\footnotesize#3} & \textit{\footnotesize#4} \\
-    \end{tabular*}
-    {\footnotesize#5} \\
-    {\footnotesize\quad\SkillIcon\ #6}
-    \vspace{-7pt}
-}
-
-\newcommand{\ResearchItem}[4]{
-    \vspace{0pt}\justifying\item
-    \textbf{\small#1} | \textbf{\footnotesize#2} | {\footnotesize#3} \\
-    {\footnotesize\quad\SkillIcon\ #4}
-    \vspace{-7pt}
-}
-
-\newcommand{\DegreeItem}[5]{
-    \vspace{0pt}\justifying\item
-    \textbf{\small#1} | \textbf{\footnotesize#2} \hfill \textbf{\footnotesize#3} \\
-    {\footnotesize#4} \\
-    {\footnotesize\quad\SkillIcon\ #5}
-    \vspace{-7pt}
-}
-
 \newcommand{\ExternalLink}{\textcolor{maincolor}{\scriptsize\textsuperscript{\faExternalLink*}}}
 
+\newcommand{\PositionTitle}{[POSITION TITLE]} % [POSITION TITLE]
+\newcommand{\CompanyName}{[COMPANY NAME]} %  [COMPANY NAME]
+
 %-------------------------------------------
-%%%%%%  COVER LETTER STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%  COVER LETTER STARTS HERE  %%%%%%%%%%%
+%-------------------------------------------
 
 \begin{document}
 
 %----------HEADING----------
 \begin{center}
-    {\LARGE \scshape Eduardo de Jesús Dávila Meza, Ph.D.} \\ \vspace{1pt}
-    \small AI/ML \& DL • Computer Vision • Embedded/Robotics Systems (ROS/ROS2) \\ \vspace{1pt}
+    {\LARGE \scshape Eduardo de Jesús Dávila Meza} \\ \vspace{1pt} % , Ph.D.
+    \small AI/ML \& DL • Computer Vision • Embedded/Robotics Systems (ROS/ROS2) \\ % \vspace{1pt}
     \vspace{2pt}% Engineer • Researcher • Educator \\ \vspace{1pt}
     \footnotesize \href{mailto:eduardodavila94@hotmail.com}{\faEnvelope\  {eduardodavila94@hotmail.com} \ExternalLink} ~ 
     \href{https://wa.me/qr/DOKPRLEDLX77N1}{\faWhatsapp\ {+52 33 2969 2743} \ExternalLink} ~ 
@@ -159,45 +90,44 @@
     \faGraduationCap\ Federal Professional Certificates: Bachelor's Degree: \href{https://cedulaprofesional.sep.gob.mx/cedula/indexAvanzada.action?idCedula=12027207&idProfesionista=12095369&token=F1E4F2D34C7A333C90517CA80AB1DB69999A4B8B}{12027207 \ExternalLink} • Master's Degree: \href{https://cedulaprofesional.sep.gob.mx/cedula/indexAvanzada.action?idCedula=14043743&idProfesionista=14115164&token=CB0863B7F0A46D831C2C3DC4A95E539B32668E3C}{14043743 \ExternalLink} • Ph.D. Degree: \href{https://cedulaprofesional.sep.gob.mx/cedula/indexAvanzada.action?idCedula=15067339&idProfesionista=15140505&token=17C9CA664BAAE1F40541558FFDF476D9C062828C}{15067339 \ExternalLink} \vspace{-8pt}
 \end{center}
 
-\vspace{1pt}
+\vspace{0pt}
 
-%-----------COVER LETTER-----------
-\large\section{Cover letter}
+%----------COVER LETTER----------
+\large\section{Cover Letter}
 
 \quad\newline
 \justifying
+
 \textbf{Hello, Hiring Team,}
 
 \quad\newline
-I am writing to express my interest in the \textbf{Senior Application Software Engineer} position at \textbf{Oracle}. I hold a Ph.D. in Science — AI/Deep Learning from \textbf{Cinvestav}, IPN, where I specialized in \textbf{deep learning} and \textbf{computer vision}. My work focuses on developing \textbf{AI/ML and computer vision solutions}, as well as \textbf{edge (robotics) systems using ROS/ROS2}, both designed for real-world deployment.
-
-
-\quad\newline
-In my recent role as a \textbf{Robot Programming Instructor}, in addition to my engineering work, I have designed and delivered hands-on courses in \textbf{ROS/ROS2} using \textbf{C++} and \textbf{Python}, focused on differential drive robots; developed practical repositories and lecture notes covering the foundations of development, simulation, deployment, and monitoring of \textbf{ROS/ROS2-based modular systems}, including computer vision and autonomous navigation; and have been recognized as a top-rated instructor. This experience has strengthened my ability to communicate complex ideas and collaborate effectively across teams.
+I am writing to express my interest in the \textbf{\PositionTitle} position at \textbf{\CompanyName}. I hold a Ph.D. in Science from \textbf{Cinvestav, IPN}, where I specialized in \textbf{deep learning and computer vision}. My background combines AI/ML research with practical software engineering and embedded/robotics systems development, with a focus on building reliable solutions for real-world applications.
 
 \quad\newline
-Previously, I worked as a \textbf{Mathematical Analyst} at \textbf{Geovoy}, where I built an automated reporting tool using \textbf{LLM-powered APIs} to generate analytical reports and insights; developed machine learning models for route optimization using \textbf{time series} analysis and \textbf{LSTM} architectures; designed and optimized APIs using \textbf{FastAPI}, raw \textbf{SQL}, and \textbf{Object-Relational Mapping (ORM)} to integrate statistical models into production systems for geolocation and inventory management; and deployed a \textbf{MediaWiki-based platform} to standardize internal processes, code, and API documentation. This experience strengthened my ability to translate analytical models into scalable and maintainable software solutions.
+In my recent role as a \textbf{Robot Programming Instructor}, I have designed and delivered hands-on courses in \textbf{ROS/ROS2} using \textbf{C++ and Python}, focused on differential-drive robots. I have also developed practical repositories and technical documentation covering the development, simulation, deployment, and monitoring of modular robotics systems, including computer vision and autonomous navigation. This work has strengthened both my systems-level understanding and my ability to communicate complex technical concepts effectively.
 
 \quad\newline
-Additionally, I worked on \textbf{computer vision systems} in both research and applied contexts. I developed a \textbf{Mask R-CNN model} for medical image segmentation in collaboration with German institutions; and contributed to real-time perception systems using \textbf{ROS/ROS2} for assistive edge applications. As co-developer of \textbf{OJO SMART}, I integrated real-time perception modules using \textbf{ROS/ROS2}, enabling color, text, banknote, and object recognition.
+Previously, as a \textbf{Mathematical Analyst in Information Technologies} at \textbf{Geovoy, Busmen Group}, I developed statistical and machine learning solutions for route optimization and demand prediction using \textbf{time-series analysis and LSTM models}. I also designed and optimized \textbf{FastAPI} services using raw SQL and ORM-based data access to integrate analytical models into operational systems, and developed an \textbf{LLM-powered reporting tool} for automated analysis and insight generation. This experience strengthened my ability to translate analytical and AI models into maintainable software systems.
 
 \quad\newline
-My background combines a strong foundation in \textbf{machine learning}, \textbf{computer vision}, and \textbf{embedded systems}, along with hands-on experience in \textbf{C++}, \textbf{Python}, \textbf{TensorFlow/Keras}, \textbf{Scikit-learn}, \textbf{OpenCV}, and backend development. I am particularly interested in building efficient and reliable AI systems that operate in real-world and resource-constrained environments.
+My computer vision experience includes developing a \textbf{Mask R-CNN} model for medical image segmentation in collaboration with German research institutions, as well as contributing to real-time perception systems for embedded/robotics applications. As a co-developer of \textbf{OJO SMART}, a vision-based assistive system for visually impaired users, I contributed to integrating perception modules for object, text, and scene recognition using ROS-based modular architectures.
 
 \quad\newline
-I am eager for the opportunity to contribute to \textbf{projects} % AI-driven 
-at \textbf{Oracle}, working across the full development lifecycle, from modeling to deployment, while collaborating with multidisciplinary teams. I would welcome the opportunity to further discuss how my experience can contribute to your team. 
+In addition to my professional experience, I maintain an engineering portfolio that demonstrates my transition from research-focused development to \textbf{production-oriented AI software engineering}. My current projects include \textbf{Vision Pipeline}, a modular computer vision inference framework using \textbf{Python, PyTorch, YOLO11, FastAPI, Docker, OpenAPI, automated testing, CI, and reproducible benchmarking}, and a \textbf{ROS/ROS2 Robotics Engineering Portfolio} focused on modular robotics development and deployment.
 
 \quad\newline
-\textbf{Thank you for your time and consideration.}
+I would welcome the opportunity to contribute my background in \textbf{AI/ML, computer vision, software engineering, and robotics systems} to \textbf{\CompanyName}. I am particularly interested in engineering environments where strong technical foundations, maintainable software, and real-world deployment are essential to delivering reliable products and solutions.
+
+\quad\newline
+\textbf{Thank you for your time and consideration}. I would welcome the opportunity to discuss how my experience could contribute to your team.
 
 \quad\newline
 \textbf{Sincerely,}\\
 % \\Eduardo Dávila \\
-\vspace{-12pt}
+\vspace{-20pt}
 \raggedleft
 \includegraphics[width=0.275\linewidth]{eduardoTransparentSign.png}\hspace{10mm}\quad\hspace{10mm}\\
-\quad
-\vfil
+% \quad
+% \vfil
 
 \end{document}
